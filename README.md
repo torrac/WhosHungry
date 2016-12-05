@@ -11,6 +11,11 @@ According to "National Geographic Magazine" to feed all the hungry in the world 
 
 ##Screen shots
 ![Alt text](/screen shot/Simulator Screen Shot Nov 23, 2016, 9.37.55 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Simulator Screen Shot Nov 23, 2016, 9.38.29 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Simulator Screen Shot Nov 23, 2016, 9.38.40 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Simulator Screen Shot Nov 23, 2016, 9.39.50 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Simulator Screen Shot Nov 23, 2016, 9.40.07 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Simulator Screen Shot Nov 23, 2016, 9.41.06 PM.png?raw=true "Optional Title")
 
 ##Installation
 
