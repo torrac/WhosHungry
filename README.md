@@ -11,11 +11,11 @@ According to "National Geographic Magazine" to feed all the hungry in the world 
 
 ##Screen shots
 ![Alt text](/screen shot/login.png?raw=true "Optional Title" "height:10")
-  ![Alt text](/screen shot/register.png?raw=true "Optional Title")
-  ![Alt text](/screen shot/foodlist.png?raw=true "Optional Title")
+    ![Alt text](/screen shot/register.png?raw=true "Optional Title")
+    ![Alt text](/screen shot/foodlist.png?raw=true "Optional Title")
 ![Alt text](/screen shot/transition.png?raw=true "Optional Title")
-  ![Alt text](/screen shot/sharefood.png?raw=true "Optional Title")
-  ![Alt text](/screen shot/findfood.png?raw=true "Optional Title")   
+    ![Alt text](/screen shot/sharefood.png?raw=true "Optional Title")
+    ![Alt text](/screen shot/findfood.png?raw=true "Optional Title")   
 
 ##Installation
 
